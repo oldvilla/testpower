@@ -19,7 +19,7 @@
     "name": "TV3",
     "id": "TV3",
     "logo": "https://mifntechnology.github.io/siaranMy/logo/Tv3.png",
-    "link": "https://oldvilla.github.io/testpower/channels/Tv3/index.m3u8",
+    "link": "https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8",
     "http_referrer": "https://oldvilla.github.io/",
     "user_agent": "Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.121 Mobile Safari/537.36"
   },
@@ -265,3 +265,4 @@
   }
 
 ]
+
